@@ -9,3 +9,5 @@ ResNet50 is a pretrained model which will help us with the prediction.
 The prediction on the simple neural network model we are building will not be that great, we are just taking it as an example. 
 
 For some reason if you can't view the file or it shows some errors, download the file. 
+
+Dataset :- https://www.kaggle.com/c/cifar-10/
